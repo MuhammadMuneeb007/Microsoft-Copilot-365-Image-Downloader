@@ -13,6 +13,11 @@
   <b>Automate image generation and download from Microsoft 365 Copilot with a single script!</b>
 </p>
 
+![Adaptable](https://github.com/user-attachments/assets/a2acc434-97cc-4682-a76a-777a91b67e51)
+
+![image](https://github.com/user-attachments/assets/64b44f9b-0025-4e3e-b0a8-952dde71ad8f)
+
+
 ---
 
 ## ✨ Features
@@ -78,9 +83,7 @@ python copilot_image_downloader.py
 
 ## 🔄 How It Works
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Workflow+Diagram" alt="Workflow Diagram" width="600"/>
-</div>
+ 
 
 1. 🌐 **Initialization**
    - Script loads vocabulary dictionary
