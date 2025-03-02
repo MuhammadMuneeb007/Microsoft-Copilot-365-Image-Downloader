@@ -49,10 +49,10 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/copilot-image-downloader.git
+git clone https://github.com/MuhammadMuneeb007/Microsoft-Copilot-Image-Downloader.git
 
 # Navigate to the project directory
-cd copilot-image-downloader
+cd Microsoft-Copilot-Image-Downloader
 
 # Install dependencies
 pip install -r requirements.txt
@@ -82,8 +82,6 @@ python copilot_image_downloader.py
 </details>
 
 ## 🔄 How It Works
-
- 
 
 1. 🌐 **Initialization**
    - Script loads vocabulary dictionary
@@ -140,6 +138,8 @@ The script uses a comprehensive dictionary of vocabulary terms with carefully cr
 </details>
 
 ## ⚙️ Customization
+
+You can easily customize the vocabulary dictionary in the script:
 
 ```python
 # Add your own vocabulary terms and prompts
@@ -201,7 +201,7 @@ vocab["Creative"] = "Show an explosion of colorful ideas coming from a person's 
 ## 📂 Project Structure
 
 ```
-microsoft-copilot-downloader/
+Microsoft-Copilot-Image-Downloader/
 ├── copilot_image_downloader.py  # Main script
 ├── requirements.txt             # Dependencies
 ├── README.md                    # Documentation
@@ -228,11 +228,9 @@ This project is available under the MIT License. See the LICENSE file for detail
 
 <div align="center">
   <p>
-    <b>Made with ❤️ by Your Name</b>
+    <b>Developed by <a href="https://github.com/MuhammadMuneeb007">Muhammad Muneeb</a></b>
   </p>
   <p>
-    <a href="https://github.com/yourusername">GitHub</a> •
-    <a href="https://twitter.com/yourusername">Twitter</a> •
-    <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+    <a href="https://github.com/MuhammadMuneeb007">GitHub</a>
   </p>
 </div>
