@@ -154,6 +154,8 @@ vocab["Creative"] = "Show an explosion of colorful ideas coming from a person's 
 
 ## 🔍 Troubleshooting
 
+![image](https://github.com/user-attachments/assets/7371fa80-e600-41d8-9e09-e74b857c4973)
+
 <table>
   <tr>
     <th>Issue</th>
