@@ -1,6 +1,20 @@
-pygetwindow
-pyautogui
-pillow
-numpy
-opencv-python
-pywinauto
+# ============================================
+# Microsoft Copilot Image Downloader
+# Requirements File
+# ============================================
+
+# Window Management
+pygetwindow>=0.0.9     # For detecting and controlling application windows
+
+# Automation
+pyautogui>=0.9.53      # For simulating keyboard and mouse actions
+pywinauto>=0.6.8       # For UI control automation and element detection
+
+# Image Processing
+opencv-python>=4.5.5   # Computer vision utilities
+numpy>=1.21.0          # Numerical processing support
+Pillow>=8.4.0          # Image manipulation library
+
+# Optional but recommended
+colorama>=0.4.4        # For colored terminal output
+tqdm>=4.62.3           # For progress bars
