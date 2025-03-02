@@ -1,4 +1,4 @@
-# 🖼️ Microsoft Copilot Image Downloader 🤖
+# 🖼️ Microsoft Copilot 365 Image Downloader 🤖
 
 <div align="center">
 
